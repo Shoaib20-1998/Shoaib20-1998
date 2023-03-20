@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <p> 👨‍👩‍👧‍👦 collaberative Projects :  <a href="https://beautiffy.netlify.app/">Beautify</a> </p>
  <p> 💬 Ask me about :  HTML, CSS, Javascript</p>
  <p> 📫 How to reach me :  shoaibmansuri235@gmail.com | | sm920149@gmail.com</p>
- <p>📄 My Resume : <a href="https://drive.google.com/drive/u/0/my-drive">Shoaib Mansuri Resume</a></p>
+ <p>📄 My Resume : <a href="https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link">Shoaib Mansuri Resume</a></p>
  <p>💂‍♂️ My Portfolio : <a href="https://shoaib20-1998.github.io/">Shoaib Mansuri</a></p>
  
 
