@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <p> 💬 Ask me about :  HTML, CSS, Javascript</p>
  <p> 📫 How to reach me :  shoaibmansuri235@gmail.com | | sm920149@gmail.com</p>
  <p>📄 My Resume : <a href="https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link">Shoaib Mansuri Resume</a></p>
- 💂‍♂️ My Portfolio :  <a href="https://Shoaib20-1998.github.io"> Checkout My Portfolio </a>
+ 💂‍♂️ My Portfolio :  <a href="https://Shoaib20-1998.github.io/"> Checkout My Portfolio </a>
  
 
 
