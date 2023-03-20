@@ -1,4 +1,5 @@
-![Shoaib Mansuri](https://user-images.githubusercontent.com/112754545/226347813-6fd251c8-5f12-44a2-bf4f-93619b654266.jpg)
+
+![Shoaib Mansuri cover](https://user-images.githubusercontent.com/112754545/226360216-a58babac-da75-4950-b672-6e6103237aa7.jpg)
 
 <!--
 **Shoaib20-1998/Shoaib20-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,14 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
- I’m currently learning Full Web Stack Development
+ <p> 🌱 I’m currently learning :  React, Redux, MongoDB, Express.js, Node.js </p>
+ <p> 🙋‍♂️ Some solo projects :  <a href="https://bestylish.vercel.app/">Be Stylish</a>,<a href="https://gadgets-rho.vercel.app/">   Gadgets++</a>,<a href="https://shoaibmansuriproject1.netlify.app">   Fit India</a></p>
+ <p> 👨‍👩‍👧‍👦 collaberative Projects :  <a href="https://beautiffy.netlify.app/">Beautify</a> </p>
+ <p> 💬 Ask me about :  HTML, CSS, Javascript</p>
+ <p> 📫 How to reach me :  shoaibmansuri235@gmail.com | | sm920149@gmail.com</p>
+ <p>📄 My Resume : <a href="https://drive.google.com/drive/u/0/my-drive">Shoaib Mansuri Resume</a></p>
+ 
+
 
 
 ## 🌐 Socials:
