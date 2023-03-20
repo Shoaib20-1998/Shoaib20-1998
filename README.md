@@ -1,8 +1,4 @@
-# hi 👋, I m Shoaib
-
-![giphy (2)](https://user-images.githubusercontent.com/112754545/226135683-0bafed1a-2b58-4619-880c-b8ea686c137f.gif)
-
-
+![Shoaib Mansuri](https://user-images.githubusercontent.com/112754545/226347813-6fd251c8-5f12-44a2-bf4f-93619b654266.jpg)
 
 <!--
 **Shoaib20-1998/Shoaib20-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
