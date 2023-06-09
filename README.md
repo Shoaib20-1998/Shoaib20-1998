@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
- <p> 🌱 I’m currently learning :  React, Redux, MongoDB, Express.js, Node.js </p>
+ <p> 🌱 I’m currently learning :  Recursion, Dynamic Programming </p>
  <p> 🙋‍♂️ Some solo projects :  <a href="https://bestylish.vercel.app/">Be Stylish</a>,<a href="https://gadgets-rho.vercel.app/">   Gadgets++</a>,<a href="https://shoaibmansuriproject1.netlify.app">   Fit India</a></p>
  <p> 👨‍👩‍👧‍👦 collaberative Projects :  <a href="https://beautiffy.netlify.app/">Beautify</a>, <a href="https://medzplus.vercel.app/">MedZ+</a> </p>
  <p> 💬 Ask me about :  HTML, CSS, Javascript, React, Redux, Node.js, Express, MongoDB</p>
