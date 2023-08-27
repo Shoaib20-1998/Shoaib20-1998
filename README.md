@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
  <p> 🌱 I’m currently learning :  Recursion, Dynamic Programming </p>
  <p> 🙋‍♂️ Some solo projects :  <a href="https://bestylish.vercel.app/">Be Stylish</a>,<a href="https://gadgets-rho.vercel.app/">   Gadgets++</a>,<a href="https://shoaibmansuriproject1.netlify.app">   Fit India</a></p>
- <p> 👨‍👩‍👧‍👦 collaberative Projects :<p>  <a href="https://beautiffy.netlify.app/">Beautify</a>, <a href="https://medzplus.vercel.app/">MedZ+</a>, <a href="https://medzplus.vercel.app/">Trendy Shop</a> </p>
+ <p> 👨‍👩‍👧‍👦 collaberative Projects :  <a href="https://beautiffy.netlify.app/">Beautify</a>, <a href="https://medzplus.vercel.app/">MedZ+</a>, <a href="https://medzplus.vercel.app/">Trendy Shop</a> </p>
  <p> 💬 Ask me about :  HTML, CSS, Javascript, React, Redux, Node.js, Express, MongoDB</p>
  <p> 📫 How to reach me :  shoaibmansuri235@gmail.com | | sm920149@gmail.com</p>
  <p>📄 My Resume : <a href="https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link">Shoaib Mansuri Resume</a></p>
