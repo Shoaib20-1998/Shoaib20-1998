@@ -1,49 +1,159 @@
+<div align="center">
 
-![Shoaib Mansuri cover](https://user-images.githubusercontent.com/112754545/226360216-a58babac-da75-4950-b672-6e6103237aa7.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Shoaib%20Mansuri&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%7C%20Frontend%20Specialist&descSize=16&descAlignY=85&descColor=a78bfa" width="100%"/>
 
-<!--
-**Shoaib20-1998/Shoaib20-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-mansuri-7753b2218/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://Shoaib20-1998.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmansuri235@gmail.com)
 
-
-
-# 💫 About Me:
- <p> 🌱 I’m currently learning :  Recursion, Dynamic Programming </p>
- <p> 🙋‍♂️ Some solo projects :  <a href="https://bestylish.vercel.app/">Be Stylish</a>,<a href="https://gadgets-rho.vercel.app/">   Gadgets++</a>,<a href="https://shoaibmansuriproject1.netlify.app">   Fit India</a></p>
- <p> 👨‍👩‍👧‍👦 collaberative Projects :  <a href="https://beautiffy.netlify.app/">Beautify</a>, <a href="https://medzplus.vercel.app/">MedZ+</a>, <a href="https://trendyshops.vercel.app/">Trendy Shop</a> </p>
- <p> 💬 Ask me about :  HTML, CSS, Javascript, React, Redux, Node.js, Express, MongoDB</p>
- <p> 📫 How to reach me :  shoaibmansuri235@gmail.com | | sm920149@gmail.com</p>
- <p>📄 My Resume : <a href="https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link">Shoaib Mansuri Resume</a></p>
- 💂‍♂️ My Portfolio :  <a href="https://Shoaib20-1998.github.io/">Click here</a>
- 
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-mansuri-7753b2218/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shoaib20-1998&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shoaib20-1998&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib20-1998&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shoaib20-1998&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shoaib20-1998&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```js
+const shoaib = {
+  role: "Software Engineer — Frontend Specialist",
+  experience: "3+ Years",
+  location: "Hyderabad, Telangana 🇮🇳",
+  currentCompany: "Infor India Pvt Ltd",
+  focus: ["React.js", "TypeScript", "Micro Frontends", "Performance"],
+  aiTools: ["ChatGPT", "Claude.ai", "Amazon Q", "Kiro"],
+  funFact: "I turn coffee into scalable UIs ☕"
+};
+```
+
+---
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td>
+<strong><a href="https://www.infor.com/">Infor India Pvt Ltd</a></strong> — Software Engineer<br/>
+<sub>🗓 Oct 2023 – Present &nbsp;|&nbsp; 📍 Hyderabad, Telangana</sub><br/><br/>
+
+🔹 Built a bulk workflow execution feature enabling <strong>1000+ datasets</strong> to run from a single configuration — reducing manual effort by <strong>10x</strong><br/>
+🔹 Built automated workflows using <strong>React Flow</strong> — reducing task completion time by <strong>75%</strong> and boosting overall productivity<br/>
+🔹 Applied optimization techniques — code splitting, lazy loading, memoization, and advanced Webpack configuration — enhancing load time by <strong>40%</strong><br/>
+🔹 Drove code quality by resolving <strong>3,000+ SonarQube issues</strong>, authoring <strong>2,000+ Jest test cases</strong>, and creating a micro frontend testing architecture — achieving <strong>90% test coverage</strong><br/>
+🔹 Leveraged AI tools (ChatGPT, Claude.ai, Kiro, Amazon Q) for code generation, debugging, and code reviews — boosting development productivity by <strong>10x</strong><br/>
+🔹 Built real-time job status tracking (queued, pending, in-progress, done, failed, stopped) using <strong>WebSockets</strong> — enabling data analysts to monitor workflows instantly<br/>
+🔹 Integrated HelpDesk on Data Mesh platform enabling users to report bugs with <strong>screenshots and screen recordings</strong><br/>
+🔹 Provided <strong>US-shift client support</strong>, collaborated with backend, QA, and product teams in agile sprints and client demos<br/><br/>
+
+<sub>⚙️ <strong>Stack:</strong> HTML, CSS/SCSS, JavaScript, TypeScript, React.js, React Flow, Jest, Redux, Webpack, Docker, Micro Frontends, WebSocket, D3.js</sub>
+</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td>
+<strong><a href="https://www.masaischool.com/">Masai School</a></strong> — Full Stack Web Developer<br/>
+<sub>🗓 Aug 2022 – Jul 2023 &nbsp;|&nbsp; 📍 Bengaluru, Karnataka</sub><br/><br/>
+
+🔹 Built production-grade full-stack applications using <strong>MERN Stack</strong>, Redux, JWT, Chakra UI, and Chart.js<br/>
+🔹 Practiced agile development, Git-based workflows, and third-party library integrations in solo and team-based environments<br/>
+🔹 Solved <strong>400+ DSA problems</strong> and invested <strong>2,000+ hours</strong> in hands-on coding and system design practice<br/><br/>
+
+<sub>⚙️ <strong>Stack:</strong> React.js, TypeScript, Redux, Node.js, Express.js, MongoDB, JWT, Bcrypt, Chart.js</sub>
+</td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td>
+<strong><a href="https://digiamigos.com">Digi Amigo</a></strong> — Technical Solution Executive<br/>
+<sub>🗓 Dec 2020 – Jul 2021 &nbsp;|&nbsp; 📍 Rajasamand, Rajasthan</sub><br/><br/>
+
+🔹 Developed and maintained mobile-responsive web pages using HTML, CSS, and JavaScript — improving UI consistency across devices<br/>
+🔹 Implemented design adjustments to enhance user experience and accessibility<br/>
+🔹 Supported digital outreach by running Facebook, Instagram, and Google campaigns to drive traffic<br/><br/>
+
+<sub>⚙️ <strong>Stack:</strong> HTML, CSS/SCSS, JavaScript</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Key Highlights
+
+| Metric | Achievement |
+|--------|------------|
+| ⚡ Performance | 40% load time improvement via advanced optimizations |
+| ✅ Code Quality | Resolved 3,000+ SonarQube issues |
+| 🧪 Test Coverage | 90% coverage with 2,000+ Jest test cases |
+| 🔄 Scale | Bulk workflows running on 1000+ datasets — 10x efficiency |
+| 🧩 Architecture | Micro Frontend with Module Federation & Single-spa |
+| 🤖 AI Productivity | 10x development boost using AI tools |
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**Architecture & Tools**
+
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Backend (Basic)**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI Tools I Use Daily**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude.ai-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌐 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔷 **[Data Mesh](https://projects.albanero.io/login)** | Enterprise data migration platform — on-prem to cloud | React, TypeScript, Redux, React Flow, MUI |
+| 🛒 **[Trendy Shop](https://trendyshops.vercel.app/)** | Full-stack e-commerce with admin dashboard | MERN, Redux, JWT, Chart.js |
+| 💊 **[MedZ+](https://medzplus.vercel.app/)** | Collaborative healthcare web app | React, Node.js, MongoDB |
+| 💄 **[Beautify](https://beautiffy.netlify.app/)** | Beauty e-commerce platform | React, Redux, Chakra UI |
+
+---
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+**Open to exciting Frontend opportunities | Remote & Hybrid | Hyderabad**
+
+[![](https://visitcount.itsvg.in/api?id=Shoaib20-1998&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
