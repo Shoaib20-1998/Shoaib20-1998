@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Shoaib%20Mansuri&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%7C%20Frontend%20Specialist&descSize=16&descAlignY=85&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Shoaib%20Mansuri&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%7C%203.11%20years%20of%20experience&descSize=16&descAlignY=85&descColor=a78bfa" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-mansuri-7753b2218/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://Shoaib20-1998.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JoDW9yn8t8igRx9Jj9z5QeWwhpp0CMDW/view?usp=share_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TJK0RJENCDy4M4E9YNrZr4WxPlh6Drma/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmansuri235@gmail.com)
 
 </div>
@@ -23,7 +23,7 @@ const shoaib = {
   experience: "3+ Years",
   location: "Hyderabad, Telangana 🇮🇳",
   currentCompany: "Infor India Pvt Ltd",
-  focus: ["React.js", "TypeScript", "Micro Frontends", "Performance"],
+  focus: ["React.js", "Javascript","TypeScript", "Micro Frontends", "Performance"],
   aiTools: ["ChatGPT", "Claude.ai", "Amazon Q", "Kiro"],
   funFact: "I turn coffee into scalable UIs ☕"
 };
