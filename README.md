@@ -48,7 +48,7 @@ const shoaib = {
 🔹 Integrated HelpDesk on Data Mesh platform enabling users to report bugs with <strong>screenshots and screen recordings</strong><br/>
 🔹 Provided <strong>US-shift client support</strong>, collaborated with backend, QA, and product teams in agile sprints and client demos<br/><br/>
 
-<sub>⚙️ <strong>Stack:</strong> HTML, CSS/SCSS, JavaScript, TypeScript, React.js, React Flow, Jest, Redux, Webpack, Docker, Micro Frontends, WebSocket, D3.js</sub>
+<sub>⚙️ <strong>Stack:</strong> HTML, CSS/SCSS, JavaScript, TypeScript, React.js, React Flow, Jest, Redux, Webpack, Docker, Micro Frontends, Node.js, WebSocket, D3.js</sub>
 </td>
 </tr>
 
