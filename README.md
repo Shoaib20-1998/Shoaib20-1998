@@ -20,7 +20,7 @@
 ```js
 const shoaib = {
   role: "Software Engineer — Frontend Specialist",
-  experience: "3+ Years",
+  experience: "4+ Years",
   location: "Hyderabad, Telangana 🇮🇳",
   currentCompany: "Infor India Pvt Ltd",
   focus: ["React.js", "Javascript","TypeScript", "Micro Frontends", "Performance"],
